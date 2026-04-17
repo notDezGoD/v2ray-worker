@@ -4,5 +4,5 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "Dezzgod", id = "04a6ccaea0ef4c548efffd1d93f2a653" }
+  { binding = "settings", id = "04a6ccaea0ef4c548efffd1d93f2a653" }
 ]
